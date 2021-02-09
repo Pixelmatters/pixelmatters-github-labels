@@ -1,0 +1,16 @@
+[
+    { "name": "Status: Blocked", "color": "#343a40" },
+    { "name": "Status: In Progress", "color": "#4263eb" },
+    { "name": "Status: On Hold", "color": "#e9ecef" },
+    { "name": "Status: Ready To Review", "color": "#51cf66" },
+    { "name": "Status: Changes Requested", "color": "#dbe4ff" },
+    { "name": "Type: Chore 🛠", "color": "#0b7285" },
+    { "name": "Type: Feature 🚀", "color": "#1971c2" },
+    { "name": "Type: Bugfix 🐞", "color": "#fbca04" },
+    { "name": "Type: Hotfix 🔥", "color": "#e03131" },
+    { "name": "Type: Refactor ♺", "color": "#6741d9" },
+    { "name": "Priority: Critical", "color": "#e03131" },
+    { "name": "Priority: High", "color": "#fa5252" },
+    { "name": "Priority: Medium", "color": "#ff8787" },
+    { "name": "Priority: Low", "color": "#ffe3e3" }
+  ]
