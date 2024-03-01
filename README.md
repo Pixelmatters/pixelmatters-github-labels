@@ -10,9 +10,9 @@
     GitHub Labels
 </h1>
 
-<h4 align="center">
+<h3 align="center">
     Enhance Github labelling system, in a Pixelmatters' way.
-</h4>
+</h3>
 
 <p align="center">
     <a href="https://github.com/Pixelmatters/eslint-config-pixelmatters/blob/master/LICENSE">
